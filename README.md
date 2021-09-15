@@ -6,7 +6,6 @@ This is a simple physics model to determine the required battery capacity of an 
 ##Instructions:
 1. Add your speed-time data into the drive cycle sheet of the excel spreadhseet. Make sure this is speed (mph) - time (seconds)
 2. Add your car data in the the car data sheet of the excel spreadhseet
-3. Add your path to the excel spreadsheet in line 19 and line 34. Don't change the sheet name.  
-4  Run the script.
+3. Run the script.
 
 

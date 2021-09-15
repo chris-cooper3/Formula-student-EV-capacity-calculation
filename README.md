@@ -8,4 +8,6 @@ This is a simple physics model to determine the required battery capacity of an 
 2. Add your car data in the the car data sheet of the excel spreadhseet
 3. Run the script.
 
+Contact: sgccoope@liverpool.ac.uk, chriscooper390@outlook.com
+
 

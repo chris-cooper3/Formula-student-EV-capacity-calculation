@@ -1,4 +1,4 @@
-# Formula-student-EV-capacity-calculation
+# Formula-student-EV-Accumulator(battery)-capacity-calculation
 This is a simple physics model to determine the required battery capacity of an EV (electric vehicle) for formula student based upon speed-time data for the formula student endurance event. This model does not take into account regenerative braking. 
 
 [Capacity calculations explanation.pdf](https://github.com/chris-cooper3/Formula-student-EV-capacity-calculation/files/7171135/Capacity.calculations.explanation.pdf) - Explanation of the physics model and calculations in the python code.
